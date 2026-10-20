@@ -1,14 +1,21 @@
+<div align="center">
+
+<!-- Gambar Profil Anda -->
+<img src="gaambar utm.jpg" width="180" height="180" style="border-radius: 50%;" alt="Muhammad Naufal bin Mohd Radzuan">
+
 # Hi, saya Muhammad Naufal bin Mohd Radzuan 👋
 
-> *Seorang pelajar / pengaturcara yang suka mempelajari perkara baharu dalam bidang teknologi.*
+> *Pelajar Universiti Teknologi Malaysia (UTM) yang bersemangat mempelajari pengaturcaraan dan teknologi baharu.*
+
+</div>
 
 ---
 
 ## 🚀 Mengenai Saya
-- 🎓 Sedang mempelajari asas pembangunan perisian & GitHub
-- 💻 Bahasa / Teknologi pilihan: `HTML`, `CSS`, `JavaScript`, `Python`
-- 🌱 Saya sedang belajar cara menggunakan fail Markdown (.md) dan Git
-- 💬 Tanya saya tentang perkara asas pengaturcaraan
+- 🎓 **Pengajian:** Pelajar di Universiti Teknologi Malaysia (UTM)
+- 💻 **Fokus:** Asas Pembangunan Perisian & Pengaturcaraan Web
+- 🌱 **Sedang Belajar:** HTML, CSS, JavaScript, Python & Git/GitHub
+- 💬 **Minat:** Pembangunan web, teknologi perisian, dan projek open-source
 
 ---
 
@@ -19,12 +26,11 @@
 ---
 
 ## 📬 Hubungi Saya
-- **LinkedIn:** [Pautan LinkedIn Anda](https://linkedin.com/in/username)
+- **LinkedIn:** [Pautan LinkedIn Naufal](https://linkedin.com/in/username)
 - **Emel:** naufal@example.com
 
 ---
 
 ## 📊 Statistik GitHub
-*(Boleh ditambah menggunakan perkhidmatan pihak ketiga seperti GitHub Readme Stats)*
 
 ![Statistik Naufal](https://github-readme-stats.vercel.app/api?username=NAMA_GITHUB_ANDA&show_icons=true&theme=radial)
